@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(dark.jpeg);
+}
+
+.container {
+    background-color: white;
+    border: 3px solid black;
+    width: 900px;
+    height: 720px;
+    margin-top: 10px;
+    margin-left: 220px;
+    
+}
+
+.one {
+    background-color: rgb(153, 2, 2);
+}
+
+.two {
+    padding-top: 10px;
+    border-bottom: 1px solid #cec7c7;
+    background-color: #cec7c7;
+    width: 894px;
+    height: 40px;
+}
+
+
+a:link {
+    margin-top: 20px;
+    margin-left: 95px;
+    color: rgb(252, 247, 247);
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+figure {
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+
+figcaption {
+    color:  #757474;
+}
+
+.four {
+    margin-left: 360px;
+    margin-top: -220px;
+}
+
+p.one {
+    margin-top: 15px;
+    background-color: white;
+}
+
+div.five {
+    margin-top: 120px;
+}
+
+.six {
+    margin-left: 360px;
+    margin-top: -220px;
+}
+
+p.three {
+    margin-top: 15px;
+}
+
+p.two {
+    border: 1px solid rgb(248, 239, 239);
+    width: 1px;
+    height: 570px;
+    margin-left: 655px;
+    margin-top: -420px;
+}
+
+.seven {
+    margin-left: 670px;
+    margin-top: -505px;
+}
+
+h3 {
+    color:rgb(238, 144, 238);
+}
+
+.text {
+    font-size: medium;
+    margin-left: 5px;
+    margin-top: 20px;
+    color: rgb(238, 144, 238);
+}
+
+p.four {
+    border: 0.5px solid rgb(248, 239, 239);
+    width: 200px;
+    height: 1px;
+    margin-left: 5px;
+    margin-top: -140px;
+}
+
+p.five {
+    border: 0.5px solid rgb(248, 239, 239);
+    width: 200px;
+    height: 1px;
+    margin-left: 5px;
+    margin-top: 55px;
+}
+
+p.six {
+    border: 0.5px solid rgb(248, 239, 239);
+    width: 200px;
+    height: 1px;
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+p.seven {
+    border: 0.5px solid rgb(248, 239, 239);
+    width: 200px;
+    height: 1px;
+    margin-left: 5px;
+    margin-top: 45px;
+}
+
+.eight {
+    margin-left: 670px;   
+    margin-top: 30px;
+}
+
+p.text2 {
+    font-size: medium;
+    margin-top: 15px;
+}
+
+h2, p.one, p.three, p.text2 {
+    color: #757474;
+}
+
+h2.one {
+    color: rgb(238, 144, 238);
+    background-color: white;
+}
+
+p.eight {
+    border: 1px solid black;
+    background-color: #cec7c7;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    margin-left: 0.2px;
+    margin-top: 85px;
+    width: 894px;
+    height: 48px;
+}
+
+footer {
+    color: white;
+    margin-top: -35px;
+    margin-left: 50px;
+}
